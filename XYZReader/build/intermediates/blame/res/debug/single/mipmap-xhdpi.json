@@ -2,5 +2,9 @@
     {
         "merged": "/Users/gene/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
         "source": "/Users/gene/Downloads/xyzreader/XYZReader/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/gene/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/gene/AndroidStudioProjects/xyzreader/XYZReader/src/main/res/mipmap-xhdpi/ic_launcher.png"
     }
 ]

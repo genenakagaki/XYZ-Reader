@@ -100,7 +100,7 @@
         android:layout_marginBottom="@dimen/fab_margin"
         app:borderWidth="0dp"
         android:src="@drawable/ic_share"
-        app:elevation="4dp"
+        app:elevation="6dp"
         android:contentDescription="Share"
         android:clickable="true"/>
 

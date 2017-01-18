@@ -12,6 +12,10 @@
         "source": "/Users/gene/Downloads/xyzreader/XYZReader/src/main/res/drawable-v21/white_selectable_item_background_circle.xml"
     },
     {
+        "merged": "/Users/gene/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-v21/white_selectable_item_background_circle.xml",
+        "source": "/Users/gene/AndroidStudioProjects/xyzreader/XYZReader/src/main/res/drawable-v21/white_selectable_item_background_circle.xml"
+    },
+    {
         "merged": "/Users/gene/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
         "source": "/Users/gene/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable-v21/avd_hide_password.xml"
     },
